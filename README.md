@@ -1,5 +1,8 @@
  #Desafio Uol Back-end - Curso de Arquitetura de Código e APIs com Java e Spring
-Este repositório documenta o meu aprendizado e prática durante o curso do desafio Back-end da Uol, focado em aprimorar conceitos básicos de arquitetura de código, além de explorar o desenvolvimento de APIs utilizando Java e Spring. Durante o curso, também adquiri conhecimentos sobre manipulação de dados em JSON e XML, integração com banco de dados H2, uso do Postman para testes de API, e construção de exceções.
+ 
+ ---
+ 
+<h2>Este repositório documenta o meu aprendizado e prática durante o curso do desafio Back-end da Uol, focado em aprimorar conceitos básicos de arquitetura de código, além de explorar o desenvolvimento de APIs utilizando Java e Spring. Durante o curso, também adquiri conhecimentos sobre manipulação de dados em JSON e XML, integração com banco de dados H2, uso do Postman para testes de API, e construção de exceções.</h2>
 
 ---
 
