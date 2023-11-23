@@ -12,7 +12,7 @@
 1-Arquitetura de Código:
 - Revisão de conceitos fundamentais de arquitetura de código.
 - Boas práticas de programação e organização de projetos.
-- 
+  
 2-APIs em JSON e XML:
 - Desenvolvimento de APIs utilizando Java e Spring.
 - Manipulação de dados em formatos JSON e XML.
